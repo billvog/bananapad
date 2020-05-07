@@ -177,61 +177,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="assets\icons\exit.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\info.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\new.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\open.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\print.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\save.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\save_all.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="assets\icons\LOGO.ico" />
   </ItemGroup>
   <ItemGroup>
     <None Include="assets\icons\LOGO_BIG.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\select_all.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\undo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\copy.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\cut.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\delete.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\find.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\font.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\paste.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\replace.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="assets\icons\search_google.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="assets\icons\Thumbnail_LOGO.png" />
