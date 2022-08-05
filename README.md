@@ -6,4 +6,4 @@ It is written in C# .NET framework by BILLVOG. It's also open-source, so, you ca
 Bananapad is licensed under MIT License.
 <hr>
 
-![showcase image](https://raw.githubusercontent.com/billvog/bananapad/master/Bananapad/assets/icons/Showcase.png)
+![showcase image](https://github.com/billvog/bananapad/raw/master/Bananapad/assets/icons/Showcase.png)
